@@ -1,3 +1,3 @@
-### Hello, Julia here 👩🏼‍💻
+### Hello, Julia here 👋
 
-I'm a PhD student at TU/e, focusing on utilising generative AI in mHealth apps for preventive healthcare.
+I'm a software engineer with a background in generative AI for preventive healthcare and human-centered computing. 💻
